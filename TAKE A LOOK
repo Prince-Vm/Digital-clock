@@ -1,0 +1,4 @@
+This is a simple digital clock website built using HTML, CSS, and JavaScript. It displays the current system time in hours, minutes, and seconds, with the seconds updating automatically every second.
+HTML is used to create the structure, CSS is used to design a clean and modern layout, and JavaScript is used to fetch and update the real-time clock using the Date object and setInterval() function. 
+
+LINK OF SITE - https://699bb7c5e8085e6fbd8fffe9--wondrous-fox-0f817b.netlify.app/
